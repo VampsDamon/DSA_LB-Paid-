@@ -22,7 +22,7 @@ void merge(int arr[],int s,int e){
     //Copy RoghtPart
     k=mid+1;
     for(int i=0;i<len2;i++){
-        leftPart[i]=arr[k++];
+        rightPart[i]=arr[k++];
     }
 
     //Now Merge these to array 
