@@ -1,4 +1,6 @@
- st.push2(444);
-    st.print();
-    st.push2(444);
-    st.print();
+int target = st.top();
+    // st.pop();
+    // reverseStack(st, target);
+    // target=st.top();
+    // st.pop();
+    // reverseStack(st, target);
